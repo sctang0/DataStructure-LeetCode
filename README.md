@@ -1,1 +1,1 @@
-# Data-LeetCode
+# DataStructure-LeetCode
