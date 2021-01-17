@@ -28,6 +28,7 @@
     <img src = "https://github.com/sctang0/DataStructure-LeetCode/blob/main/images/01.array-linkList/01.001.01.png" alt = "img">
 </div>
 
+
 ```javascript
 /**
  * Definition for singly linked list

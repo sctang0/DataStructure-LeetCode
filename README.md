@@ -6,3 +6,4 @@
     * [0.1. 测试程序执行时长](https://github.com/sctang0/DataStructure-LeetCode/blob/main/CHAPTER.00.001.md)
 * 1.0 数组, 链表
     * [1.1 206. 反转链表-迭代, 递归](https://github.com/sctang0/DataStructure-LeetCode/blob/main/CHAPTER.01.001.md)
+    * [1.2 24. 两两交换链表中的节点-迭代](https://github.com/sctang0/DataStructure-LeetCode/blob/main/CHAPTER.01.002.md)
