@@ -110,6 +110,6 @@ var reverseList = function(head) {
 * [力扣 (LeetCode) : 206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/solution/fan-zhuan-lian-biao-by-leetcode/)
 * [洪水猛兽行: 函数, 变量名命名的四种方法](https://blog.csdn.net/yuhengyue/article/details/78464448)
 
-##### 画图工具
+##### 作图工具
 
 * [Excalidraw](https://excalidraw.com/)
