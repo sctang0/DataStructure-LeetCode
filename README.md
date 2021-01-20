@@ -7,5 +7,5 @@
 * 1.0 数组, 链表
     * [1.1 206. 反转链表-迭代, 递归](https://github.com/sctang0/DataStructure-LeetCode/blob/main/CHAPTER.01.001.md)
     * [1.2 24. 两两交换链表中的节点-迭代](https://github.com/sctang0/DataStructure-LeetCode/blob/main/CHAPTER.01.002.md)
-    * [1.3 141. 环形链表-快慢指针](https://github.com/sctang0/DataStructure-LeetCode/blob/main/CHAPTER.01.003.md)
+    * [1.3 141. 环形链表-快慢指针, 标记](https://github.com/sctang0/DataStructure-LeetCode/blob/main/CHAPTER.01.003.md)
     * [1.4 142. 环形链表II-标记](https://github.com/sctang0/DataStructure-LeetCode/blob/main/CHAPTER.01.004.md)
