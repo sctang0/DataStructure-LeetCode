@@ -25,8 +25,9 @@
 * 图解
 
 <div align = center>
-    <img src = "https://github.com/sctang0/DataStructure-LeetCode/blob/main/images/01.array-linkList/01.001.01.png" alt = "img">
+    <img src = "./images/01.array-linkList/01.001.01.png" alt = "img">
 </div>
+
 
 
 ```javascript
@@ -71,28 +72,9 @@ var reverseList = function(head) {
 * 用递归算法, 实现将链表 `head` 元素移入链表 `prev` .
 
 ```javascript
-/**
- * Definition for singly linked list
- * function ListNode(val) {
- *     this.val = val;
- *     this.next = null;
- * }
- */
-/**
- * @param {ListNode} head
- * @return {ListNode}
- */
-var reverseList = function(head) {
-    let reverse = (prev, curr) => {
-        if (! curr) {
-            return prev;
-        }
-        let next = curr.next;
-        curr.next = prev;
-        return reverse(curr, next);
-    }
-    return reverse(null, head);
-}
+<div align = center>
+    <img src = "https://github.com/sctang0/DataStructure-LeetCode/blob/main/images/00/00.007.png" alt = "img">
+</div>
 ```
 
 ##### 复杂度分析

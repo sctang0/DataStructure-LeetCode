@@ -14,7 +14,7 @@
 
     * 示例一
 
-        * ![img](https://github.com/sctang0/DataStructure-LeetCode/raw/main/images/01.array-linkList/01.003.01.png)
+        * ![img](./images/01.array-linkList/01.003.01.png)
 
         * ```example
             输入: head = [ 1 ], pos = - 1
@@ -24,7 +24,7 @@
 
     * 示例二
 
-        * ![img](https://github.com/sctang0/DataStructure-LeetCode/raw/main/images/01.array-linkList/01.003.02.png)
+        * ![img](./images/01.array-linkList/01.003.02.png)
 
         * ```example
             输入: head = [ 1, 2 ], pos = 0
@@ -34,7 +34,7 @@
 
     * 示例三
 
-        * ![img](https://github.com/sctang0/DataStructure-LeetCode/raw/main/images/01.array-linkList/01.003.03.png)
+        * ![img](./images/01.array-linkList/01.003.03.png)
 
         * ```example
             输入: head = [ 3, 2, 0, - 4 ], pos = 1
@@ -56,8 +56,9 @@
 * 举例
 
 <div align = center>
-    <img src = "https://github.com/sctang0/DataStructure-LeetCode/raw/main/images/01.array-linkList/01.003.04.png" alt = "img">
+    <img src = "./images/01.array-linkList/01.003.04.png" alt = "img">
 </div>
+
 
 ```javascript
 /**

@@ -6,7 +6,7 @@
 
     - 示例一
 
-        - [![img](https://github.com/sctang0/DataStructure-LeetCode/raw/main/images/01.array-linkList/01.002.01.png)](https://github.com/sctang0/DataStructure-LeetCode-Private/blob/main/images/01.array-linkList/01.002.01.png)
+        - ![img](./images/01.array-linkList/01.002.01.png)
 
         - ```
                 输入: head = [ 1, 2, 3, 4 ]
@@ -39,8 +39,9 @@
 - 图解
 
 <div align = center>
-    <img src = "https://github.com/sctang0/DataStructure-LeetCode/raw/main/images/01.array-linkList/01.002.02.png" alt = "img">
+    <img src = "./images/01.array-linkList/01.002.02.png" alt = "img">
 </div>
+
 
 
 ```javascript
@@ -82,7 +83,7 @@ var swapPairs = function(head) {
 
 - [迭代](https://zh.wikipedia.org/wiki/迭代): 重复反馈过程的活动, 其目的通常是为了接近并到达所需的目标或结果.
 - [反馈](https://zh.wikipedia.org/wiki/反馈): (英语: feedback), 指将系统的输出返回到输入端并以某种方式改变输入.
-    - [![img](https://github.com/sctang0/DataStructure-LeetCode/raw/main/images/01.array-linkList/01.002.03.png)](https://github.com/sctang0/DataStructure-LeetCode-Private/blob/main/images/01.array-linkList/01.002.03.png)
+    - ![img](./images/01.array-linkList/01.002.03.png)
 - [哨兵](https://www.zhihu.com/question/27155932): 顾名思义, 是用来解决国家之间边界问题的, 不直接参与生产活动. 同样, 计算机科学中提到的哨兵, 也用来解决边界问题.
 
 
